@@ -24,7 +24,7 @@ The Marriage Hall Booking System is a web-based application developed to simplif
 
 # Installation
 1. Clone the repository:
-git clone h[ttps://github.com/your-username/marriage-hall-booking-system.git](https://github.com/AtharvaPatharkar/marriage-hall-booking-system)
+git clone h[ttps://github.com/AtharvaPatharkar/marriage-hall-booking-system.git](https://github.com/AtharvaPatharkar/marriage-hall-booking-system)
 Import the MySQL database schema from the database folder.
 
 2. Configure the database connection in config.php.
